@@ -18,7 +18,7 @@ class ProductManagerTest {
     private Product fourth = new Smartphone(4, "iPhone6", 11000, "Apple");
     private Product fifth = new Book(5, "Гарри Поттер", 450, "Дж. К. Роулинг");
     private Product six = new Book(6, "Книга", 200, "Пауло Коэльо");
-    private Product seven = new Product(7, "Warfeic", 450);
+    private Product seven = new Product(7, "Warfeic", 5450);
 
     @BeforeEach
     void setUp() {
